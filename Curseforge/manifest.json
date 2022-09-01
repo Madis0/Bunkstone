@@ -1,0 +1,148 @@
+{
+  "minecraft": {
+    "version": "1.19.2",
+    "modLoaders": [
+      {
+        "id": "fabric-0.14.9",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "Bunkstone",
+  "author": "",
+  "files": [
+    {
+      "projectID": 568563,
+      "fileID": 3935334,
+      "required": true
+    },
+    {
+      "projectID": 624911,
+      "fileID": 3922044,
+      "required": true
+    },
+    {
+      "projectID": 403815,
+      "fileID": 3907238,
+      "required": true
+    },
+    {
+      "projectID": 325092,
+      "fileID": 3821958,
+      "required": true
+    },
+    {
+      "projectID": 621768,
+      "fileID": 3914072,
+      "required": true
+    },
+    {
+      "projectID": 419699,
+      "fileID": 3929406,
+      "required": true
+    },
+    {
+      "projectID": 306612,
+      "fileID": 3936024,
+      "required": true
+    },
+    {
+      "projectID": 641620,
+      "fileID": 3865840,
+      "required": true
+    },
+    {
+      "projectID": 308702,
+      "fileID": 3920481,
+      "required": true
+    },
+    {
+      "projectID": 526391,
+      "fileID": 3832445,
+      "required": true
+    },
+    {
+      "projectID": 394468,
+      "fileID": 3957319,
+      "required": true
+    },
+    {
+      "projectID": 634062,
+      "fileID": 3958543,
+      "required": true
+    },
+    {
+      "projectID": 511319,
+      "fileID": 3946216,
+      "required": true
+    },
+    {
+      "projectID": 643246,
+      "fileID": 3882360,
+      "required": true
+    },
+    {
+      "projectID": 447673,
+      "fileID": 3958738,
+      "required": true
+    },
+    {
+      "projectID": 637016,
+      "fileID": 3847832,
+      "required": true
+    },
+    {
+      "projectID": 403858,
+      "fileID": 3906222,
+      "required": true
+    },
+    {
+      "projectID": 634876,
+      "fileID": 3837925,
+      "required": true
+    },
+    {
+      "projectID": 348521,
+      "fileID": 3906387,
+      "required": true
+    },
+    {
+      "projectID": 416796,
+      "fileID": 3923664,
+      "required": true
+    },
+    {
+      "projectID": 416797,
+      "fileID": 3912983,
+      "required": true
+    },
+    {
+      "projectID": 475358,
+      "fileID": 3637536,
+      "required": true
+    },
+    {
+      "projectID": 488090,
+      "fileID": 3947116,
+      "required": true
+    },
+    {
+      "projectID": 570368,
+      "fileID": 3840766,
+      "required": true
+    },
+    {
+      "projectID": 577068,
+      "fileID": 3829234,
+      "required": true
+    },
+    {
+      "projectID": 486485,
+      "fileID": 3837129,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}

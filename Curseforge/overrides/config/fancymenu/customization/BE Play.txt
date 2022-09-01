@@ -1,0 +1,76 @@
+type = menu
+
+customization-meta {
+  identifier = %fancymenu:universal_layout%
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+  universal_layout_whitelist = net.minecraft.class_526;net.minecraft.class_4325;net.minecraft.class_500;
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = opengui
+  x = 205
+  width = 65
+  actionid = 631afcf4-1d3c-454c-83ba-b6412f6deb401661362919421
+  action = addbutton
+  y = 0
+  label = Worlds
+  value = net.minecraft.class_526
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = opengui
+  x = 274
+  width = 65
+  actionid = cdb66690-a589-4b60-b629-f89bb8d0b9d01661362927877
+  action = addbutton
+  y = 0
+  label = Friends
+  value = net.minecraft.class_4325
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = opengui
+  x = 342
+  width = 65
+  actionid = 8ab1b43a-dca1-4e21-a301-60d5b60cafe41661362937908
+  action = addbutton
+  y = 0
+  label = Servers
+  value = net.minecraft.class_500
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = opengui
+  x = 411
+  width = 24
+  actionid = b323c30e-6c3b-4d38-bce3-7506959d59391661362946974
+  action = addbutton
+  y = 0
+  label = x
+  value = net.minecraft.class_442
+  height = 13
+}
+

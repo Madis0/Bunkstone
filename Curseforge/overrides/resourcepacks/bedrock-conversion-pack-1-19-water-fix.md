@@ -1,0 +1,1 @@
+Download this: https://www.planetminecraft.com/texture-pack/bedrock-edition-styled-ui and place it in the same folder.

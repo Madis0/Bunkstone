@@ -1,0 +1,71 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_4325
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=9106%
+  orientation = top-centered
+  x = -116
+  action = movebutton
+  y = 13
+}
+
+customization {
+  identifier = %id=9106%
+  width = 209
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=5476%
+  orientation = top-centered
+  x = 97
+  action = movebutton
+  y = 15
+}
+
+customization {
+  identifier = %id=5476%
+  width = 26
+  action = resizebutton
+  height = 22
+}
+
+customization {
+  identifier = %id=407968%
+  orientation = bottom-centered
+  x = -98
+  action = movebutton
+  y = -32
+}
+
+customization {
+  identifier = %id=407968%
+  width = 196
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=504968%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=8856%
+  action = vanilla_button_visibility_requirements
+  vr:showif:multiplayer = true
+}
+

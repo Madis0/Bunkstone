@@ -1,0 +1,121 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_433
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_return_to_game_button%
+  orientation = mid-centered
+  x = -266
+  action = movebutton
+  y = -51
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_feedback_button%
+  orientation = bottom-left
+  x = 1
+  action = movebutton
+  y = -42
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_options_button%
+  orientation = mid-centered
+  x = -266
+  action = movebutton
+  y = -28
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_options_button%
+  width = 204
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_report_bugs_button%
+  orientation = bottom-left
+  x = 1
+  action = movebutton
+  y = -21
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_advancements_button%
+  orientation = bottom-left
+  x = 100
+  action = movebutton
+  y = -42
+}
+
+customization {
+  identifier = %id=398318%
+  orientation = mid-centered
+  x = -266
+  action = movebutton
+  y = -5
+}
+
+customization {
+  identifier = %id=398318%
+  action = setbuttonlabel
+  value = Marketplace
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_disconnect_button%
+  orientation = mid-centered
+  x = -266
+  action = movebutton
+  y = 18
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_disconnect_button%
+  action = setbuttonlabel
+  value = Save & Quit
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_stats_button%
+  orientation = bottom-left
+  x = 100
+  action = movebutton
+  y = -21
+}
+
+customization {
+  orientation = top-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = opengui
+  x = 411
+  width = 100
+  actionid = eab8e3be-750c-4f46-8a42-90f80a09a5601661365428727
+  action = addbutton
+  y = 197
+  label = Dressing Room
+  value = net.minecraft.class_440
+  height = 20
+}
+
+customization {
+  identifier = %id=504342%
+  orientation = top-right
+  x = -98
+  action = movebutton
+  y = 28
+}
+

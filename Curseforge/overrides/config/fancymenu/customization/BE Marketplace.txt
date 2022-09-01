@@ -1,0 +1,48 @@
+type = menu
+
+customization-meta {
+  identifier = com.terraformersmc.modmenu.gui.ModsScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  custom_menu_title = Marketplace
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=346972%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=504972%
+  orientation = top-left
+  x = 1
+  action = movebutton
+  y = 0
+}
+
+customization {
+  identifier = %id=504972%
+  width = 49
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=37345%
+  action = vanilla_button_visibility_requirements
+  vr:showif:singleplayer = false
+}
+
+customization {
+  identifier = %id=45722%
+  action = vanilla_button_visibility_requirements
+  vr:showif:singleplayer = false
+}
+
